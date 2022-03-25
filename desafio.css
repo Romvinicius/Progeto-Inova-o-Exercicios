@@ -1,0 +1,78 @@
+.div_1{
+    background-color: rgba(194, 80, 80, 0.747);
+    border: 10px solid black;
+    width: 75vw;
+    height: 300px;
+}
+
+.div_1filha{
+    margin-top:60px;
+    margin-bottom:60px ;
+    margin-right: 80px;
+    margin-left: 80px;
+    background-color: white;
+    border: 10px solid rgb(0, 0, 136);
+    width: 60vw;
+    height: 150px;
+    
+
+}
+#paragrafo{
+color: rgb(0, 0, 136);
+font-weight: 1000;
+font-family: Arial, Helvetica, sans-serif;
+display: flex;
+margin: 60px;
+justify-content: center;
+}
+
+.div_2{
+margin: 50px;
+width: 1200px;
+height: 120px;
+display: flex;
+flex-direction: column;
+align-items: center;
+margin:5%;
+}
+.div_2filha{
+background-color: blue;
+width: 1000px;
+height: 30px;
+}
+.div_2filha2{
+background-color: purple;
+width: 500px;
+height: 30px;
+}
+.div_2filha3{
+    background-color: green;
+    height: 30px;
+    width: 750px;
+}
+.div_2filha4{
+    background-color: yellow;
+    height: 30px;
+    width: 600px;
+}
+.div_3{
+    width: 100%;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+}
+.div_3filha{
+    background-color: red;
+    height: 100%;
+    width: 40%;
+}
+.div_3filha2{
+    background-color: rgba(0, 128, 128, 0.733);
+    height: 100%;
+    width: 25%;
+}
+.div_3filha3{
+    background-color: greenyellow;
+    height: 100%;
+    width: 35%;
+}

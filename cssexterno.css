@@ -1,0 +1,27 @@
+.div_1{
+    background-color: #FF8C00;
+    width: 500px;
+    height: 500px;
+}
+.div_1filha{
+background-color: #90EE90;
+width: 50%;
+height: 50%;
+}
+#paragrafo{
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-weight: 1000;
+    font-family: monospace;
+}
+.div_2{
+    background-color: rgb(23, 198, 241);
+    width: 50%;
+    height: 50vh;
+}
+.div_2filha{
+    width: 75vh;
+    height: 50%;
+    background-color: rgb(182, 65, 65);
+}
